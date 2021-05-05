@@ -19,3 +19,7 @@ Here are some ideas to get you started:
     Role:           Cloud Administrator
     Company:        Ictivity
     Based:          Eindhoven, Netherlands
+
+[![Azure][4.2]][4]  Azure
+
+[4.2]: /Interests/Azure.png
