@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     Based:          Eindhoven, Netherlands
 
 ![Azure][4.2] Azure
-![Visualstudio] [5.2] Visual Studio
+![VSCode][5.2] VS Code
 
 [4.2]: Interests/azure.png
 [5.2]: Interests/visualstudio.png
