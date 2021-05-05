@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 
-[VScode]: Interests/visualstudio.png
+[VScode]: https://visualstudio.microsoft.com/
