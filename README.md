@@ -20,6 +20,6 @@ Here are some ideas to get you started:
     Company:        Ictivity
     Based:          Eindhoven, Netherlands
 
-![Azure][4.2]] Azure
+![Azure][4.2] Azure
 
 [4.2]: Interests/azure.png
