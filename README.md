@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 [![Azure][4.2]][4]  Azure
 
-[4.2]: /Interests/Azure.png
+[4.2]: Interests/azure.png
