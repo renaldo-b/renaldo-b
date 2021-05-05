@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+    Name:           Renaldo Breidel
+    Role:           Cloud Administrator
+    Company:        Ictivity
+    Based:          Eindhoven, Netherlands
