@@ -28,7 +28,7 @@ Just someone who is learning to script in Powershell and is exploring Microsoft 
 
 [<img align="left" alt="Azure" width="46px" src="https://raw.githubusercontent.com/renaldo-b/renaldo-b/main/Interests/azure.png" />][azure]
 
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
 
