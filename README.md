@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ## Who am i
 
     Name:           Renaldo Breidel
-    Role:           Cloud Administrator
+    Role:           Solution Consultant
     Company:        Ictivity
     Based:          Eindhoven, Netherlands
 
-Just someone who is learning to script in Powershell and is exploring Microsoft Azure!
+Just someone who is exploring the world of Azure and is interested in Automation.
 
 ### Tools and interests:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VScode]
